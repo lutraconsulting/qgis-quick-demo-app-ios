@@ -1,0 +1,16 @@
+BASE_DIR=</home/folder>/Projects/quick
+
+unix {
+  QGIS_INSTALL_PATH =  $${BASE_DIR}/Applications
+}
+
+macx {
+  QGIS_INSTALL_PATH =  $${BASE_DIR}/Applications
+}
+
+ios {
+  QGIS_INSTALL_PATH =  $${BASE_DIR}/OSGeo4iOS/stage/arm64
+  # should be consistent with your OSGeo4iOS settings
+  QMAKE_IOS_DEPLOYMENT_TARGET = 12.0
+}
+
