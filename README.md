@@ -1,6 +1,8 @@
 Demo application using QGIS Quick for iOS devices
 =================================================
 
+for Android app see https://github.com/lutraconsulting/qgis-quick-demo-app
+
 <b> Experimental! </b>
 
 First follow instruction on https://github.com/lutraconsulting/OSGeo4iOS to 
